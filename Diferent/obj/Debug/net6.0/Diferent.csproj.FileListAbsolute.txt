@@ -1,0 +1,15 @@
+D:\HW5\PositivArray\Diferent\bin\Debug\net6.0\Diferent.exe
+D:\HW5\PositivArray\Diferent\bin\Debug\net6.0\Diferent.deps.json
+D:\HW5\PositivArray\Diferent\bin\Debug\net6.0\Diferent.runtimeconfig.json
+D:\HW5\PositivArray\Diferent\bin\Debug\net6.0\Diferent.dll
+D:\HW5\PositivArray\Diferent\bin\Debug\net6.0\Diferent.pdb
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.csproj.AssemblyReference.cache
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.AssemblyInfoInputs.cache
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.AssemblyInfo.cs
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.csproj.CoreCompileInputs.cache
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.dll
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\refint\Diferent.dll
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.pdb
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\Diferent.genruntimeconfig.cache
+D:\HW5\PositivArray\Diferent\obj\Debug\net6.0\ref\Diferent.dll

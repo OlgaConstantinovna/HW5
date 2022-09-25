@@ -1,0 +1,15 @@
+D:\HW5\PositivArray\bin\Debug\net6.0\PositivArray.exe
+D:\HW5\PositivArray\bin\Debug\net6.0\PositivArray.deps.json
+D:\HW5\PositivArray\bin\Debug\net6.0\PositivArray.runtimeconfig.json
+D:\HW5\PositivArray\bin\Debug\net6.0\PositivArray.dll
+D:\HW5\PositivArray\bin\Debug\net6.0\PositivArray.pdb
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.csproj.AssemblyReference.cache
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.AssemblyInfoInputs.cache
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.AssemblyInfo.cs
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.csproj.CoreCompileInputs.cache
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.dll
+D:\HW5\PositivArray\obj\Debug\net6.0\refint\PositivArray.dll
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.pdb
+D:\HW5\PositivArray\obj\Debug\net6.0\PositivArray.genruntimeconfig.cache
+D:\HW5\PositivArray\obj\Debug\net6.0\ref\PositivArray.dll

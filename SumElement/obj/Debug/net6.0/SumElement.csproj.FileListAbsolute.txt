@@ -1,0 +1,15 @@
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.csproj.AssemblyReference.cache
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.AssemblyInfoInputs.cache
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.AssemblyInfo.cs
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.csproj.CoreCompileInputs.cache
+D:\HW5\PositivArray\SumElement\bin\Debug\net6.0\SumElement.exe
+D:\HW5\PositivArray\SumElement\bin\Debug\net6.0\SumElement.deps.json
+D:\HW5\PositivArray\SumElement\bin\Debug\net6.0\SumElement.runtimeconfig.json
+D:\HW5\PositivArray\SumElement\bin\Debug\net6.0\SumElement.dll
+D:\HW5\PositivArray\SumElement\bin\Debug\net6.0\SumElement.pdb
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.dll
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\refint\SumElement.dll
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.pdb
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\SumElement.genruntimeconfig.cache
+D:\HW5\PositivArray\SumElement\obj\Debug\net6.0\ref\SumElement.dll
